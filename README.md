@@ -9,7 +9,7 @@
     Created my first marking up plain text file as an HTML5 page
 
 
-- [Version 2](https://jessicaw89.github.io/baskerville_two/johnbaskerville2.html)
+- [Version 2](https://jessicaw89.github.io/john_baskerville/johnbaskerville2.html)
 
     *Created 4 November 2019*
     
