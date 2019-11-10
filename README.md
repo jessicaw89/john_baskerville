@@ -20,4 +20,13 @@
 
 # <h3>History of Type</h3>
 
--
+- [Version 1](https://jessicaw89.github.io/john_baskerville/history1.html)
+
+    *Created 4 November 2019*
+    
+    
+- [Version 2](https://jessicaw89.github.io/john_baskerville/history2.html)
+
+    *Created 10 November 2019*
+    
+    Added CSS
