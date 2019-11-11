@@ -25,10 +25,7 @@
 
     *Created 4 November 2019*
     
-<<<<<<< HEAD
-    
-=======
->>>>>>> ff5885dcf8ff0dca6ffc7fa5cd77b3650f384b01
+
 - [Version 2](https://jessicaw89.github.io/john_baskerville/history2.html)
 
     *Created 10 November 2019*
