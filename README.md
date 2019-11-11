@@ -15,8 +15,9 @@
     
     Added CSS
 
+- [Version 3](https://jessicaw89.github.io/john_baskerville/johnbaskerville3.html)
 
-
+    *Created 11 November 2019*
 
 # <h3>History of Type</h3>
 
@@ -24,6 +25,10 @@
 
     *Created 4 November 2019*
     
+<<<<<<< HEAD
+    
+=======
+>>>>>>> ff5885dcf8ff0dca6ffc7fa5cd77b3650f384b01
 - [Version 2](https://jessicaw89.github.io/john_baskerville/history2.html)
 
     *Created 10 November 2019*
