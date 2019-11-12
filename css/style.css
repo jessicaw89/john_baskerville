@@ -10,7 +10,7 @@
 /*----------- MAIN STYLING ---------*/
 body {
     width:70%;
-    max-width: 670px;
+    max-width: 700px;
     margin: auto;
     background: #fafafa;
     color: #333;
@@ -24,6 +24,7 @@ h1, h2, h3 {
     color: #8F0040;
     text-align: center;
 }
+p{font-family: 'Open Sans', sans-serif;}
 
 p, blockquote {
     marign-bottom: 1em;
@@ -36,7 +37,7 @@ h1 {font-size: 2.827em;
     }
 
 h2 {font-size: 1.999em;
-    margin: 1em 0}
+    margin: 3em 0 1em 0}
 
 h3 {font-size: 1.414em;
 margin-bottom: 1.5em; }
@@ -49,7 +50,11 @@ blockquote {
 
 blockquote cite {
     font-size: 0.75em;
-    color: #333
+    color: #333;
+
+header h3 {font-style: italic}    
+    
+header p {font-size: 1.35em}    
 }
 
 /*------- FOOTER -------*/
