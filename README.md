@@ -32,7 +32,7 @@
     
     Added CSS
 
-- [Version 3](https://jessicaw89.github.io/john_baskerville/hsitory3.html)    
+- [Version 3](https://jessicaw89.github.io/john_baskerville/history3.html)    
 
     *Created 16 November 2019*
     
