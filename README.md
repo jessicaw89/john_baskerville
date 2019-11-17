@@ -31,3 +31,9 @@
     *Created 10 November 2019*
     
     Added CSS
+
+- [Version 3](https://jessicaw89.github.io/john_baskerville/history3.html)    
+
+    *Created 16 November 2019*
+    
+    Typeface added
