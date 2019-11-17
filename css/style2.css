@@ -10,22 +10,32 @@
 /*----------- MAIN STYLING ---------*/
 body {
     width:70%;
-    max-width: 700px;
+    max-width: 670px;
     margin: auto;
     background: #fafafa;
     color: #333;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Spectral', serif;
+
 }
 
 /*-------------- TYPOGRAPHY ---------*/
 
-h1, h2, h3, li {
+h1, h2, h3 {
     font-weight: normal;
-    color: #8F0040;
+    color: #DB5941;
     text-align: center;
+        
 }
 
-p{font-family: 'Open Sans', sans-serif;}
+p{font-family: 'Opens Sans' sans-serif}    
+
+
+h2 {
+    font-weight: normal;
+    color: #DB8A3F;
+    text-align: center;
+}
 
 p, blockquote {
     margin-bottom: 1em;
@@ -34,17 +44,13 @@ p, blockquote {
 
 h1 {font-size: 2.827em;
     margin-top: 2em;
-    margin-bottom: 0.1em;
-    }
+    margin-bottom: 0.1em;}
 
 h2 {font-size: 1.999em;
-    margin: 3em 0 1em 0}
+    margin: 1em 0}
 
 h3 {font-size: 1.414em;
-    margin-bottom: 1.5em; 
-    
-}
-
+margin-bottom: 1.5em; }
 
 blockquote {
     font-size: 1.414em;
@@ -55,15 +61,25 @@ blockquote {
 blockquote cite {
     font-size: 0.75em;
     color: #333;}
-
-
+    
+header h3 {font-style: italic}    
+    
+header p {font-size: 1.35em}   
+    
 li {
     font-weight: normal;
     color: #333;
     text-align: left;
-    font-family: 'Libre Baskerville', serif;}
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Spectral', serif;}
 
-
+top {
+    font-weight: normal;
+    color: #333;
+    text-align: left;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Spectral', serif;}
+    
 
 /*------- FOOTER -------*/
 

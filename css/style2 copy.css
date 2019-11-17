@@ -14,6 +14,10 @@ body {
     margin: auto;
     background: #fafafa;
     color: #333;
+    font-family: 'Habibi', serif;
+    font-family: 'Rasa', serif;
+
+
 }
 
 /*-------------- TYPOGRAPHY ---------*/
@@ -22,7 +26,9 @@ h1, h2, h3 {
     font-weight: normal;
     color: #DB5941;
     text-align: center;
+        
 }
+
 
 h2 {
     font-weight: normal;
@@ -37,8 +43,7 @@ p, blockquote {
 
 h1 {font-size: 2.827em;
     margin-top: 2em;
-    margin-bottom: 0.1em;
-    }
+    margin-bottom: 0.1em;}
 
 h2 {font-size: 1.999em;
     margin: 1em 0}
@@ -54,7 +59,11 @@ blockquote {
 
 blockquote cite {
     font-size: 0.75em;
-    color: #333
+    color: #333;
+    
+header h3 {font-style: italic}    
+    
+header p {font-size: 1.35em}  
 }
 
 /*------- FOOTER -------*/
