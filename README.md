@@ -18,16 +18,27 @@
 - [Version 3](https://jessicaw89.github.io/john_baskerville/johnbaskerville3.html)
 
     *Created 11 November 2019*
+    
+- [Version 4](https://jessicaw89.github.io/john_baskerville/johnbaskerville4.html)   
 
+    *Created 18 November 2019*
+    
 # <h3>History of Type</h3>
 
 - [Version 1](https://jessicaw89.github.io/john_baskerville/history1.html)
 
     *Created 4 November 2019*
     
+    Plain HTML
 
 - [Version 2](https://jessicaw89.github.io/john_baskerville/history2.html)
 
     *Created 10 November 2019*
     
     Added CSS
+
+- [Version 3](https://jessicaw89.github.io/john_baskerville/history3.html)    
+
+    *Created 16 November 2019*
+    
+    Typeface added and list added
