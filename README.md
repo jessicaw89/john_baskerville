@@ -29,8 +29,9 @@
 
     *Created 4 November 2019*
     
+    Plain HTML
 
-- [Version 2](https://jessicaw89.github.io/john_baskerville/history2.html)
+- [Version 2](https://jessicaw89.github.io/john_baskerville/history3.html)
 
     *Created 10 November 2019*
     
@@ -40,4 +41,4 @@
 
     *Created 16 November 2019*
     
-    Typeface added
+    Typeface added and list added
