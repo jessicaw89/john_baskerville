@@ -42,3 +42,5 @@
     *Created 16 November 2019*
     
     Typeface added and list added
+    
+- [Version 4](https://jessicaw89.github.io/john_baskerville/history4.html)     
