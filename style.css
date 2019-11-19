@@ -9,33 +9,23 @@
 
 /*----------- MAIN STYLING ---------*/
 body {
-    width:70%;
-    max-width: 670px;
+    width:80%;
+    max-width: 650px;
     margin: auto;
     background: #fafafa;
     color: #333;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-family: 'Spectral', serif;
-
+    font-family: 'Libre Baskerville', serif;
 }
 
 /*-------------- TYPOGRAPHY ---------*/
 
 h1, h2, h3 {
     font-weight: normal;
-    color: #DB5941;
-    text-align: center;
-        
-}
-
-p{font-family: 'Opens Sans' sans-serif}    
-
-
-h2 {
-    font-weight: normal;
-    color: #DB8A3F;
+    color: #8F0040;
     text-align: center;
 }
+
+p{font-family: 'Open Sans', sans-serif;}
 
 p, blockquote {
     margin-bottom: 1em;
@@ -44,13 +34,17 @@ p, blockquote {
 
 h1 {font-size: 2.827em;
     margin-top: 2em;
-    margin-bottom: 0.1em;}
+    margin-bottom: 0.1em;
+    }
 
 h2 {font-size: 1.999em;
-    margin: 1em 0}
+    margin: 3em 0 1em 0}
 
 h3 {font-size: 1.414em;
-margin-bottom: 1.5em; }
+    margin-bottom: 1.5em; 
+    
+}
+
 
 blockquote {
     font-size: 1.414em;
@@ -61,25 +55,25 @@ blockquote {
 blockquote cite {
     font-size: 0.75em;
     color: #333;}
-    
-header h3 {font-style: italic}    
-    
-header p {font-size: 1.35em}   
-    
-li {
-    font-weight: normal;
-    color: #333;
-    text-align: left;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-family: 'Spectral', serif;}
 
-top {
-    font-weight: normal;
-    color: #333;
-    text-align: left;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-family: 'Spectral', serif;}
+header h3 {font-style: italic}
 
+header p {font-size: 1.35em}
+
+
+/*----- STYLING LINKS -----*/
+
+a{
+    color: #8F0040;
+    text-decoration: none;
+    border-bottom: 1px dotted;
+
+}
+
+a:hover {
+    color: chocolate;
+    border-bottom: 1px dotted;
+}
 
 /*------- NAVIGATION -----*/
 
@@ -89,9 +83,9 @@ nav {
     left:0;
     margin: 0;
     width: 100%;
-    background-color: #E98552;
+    background-color: #8F0040;
     padding: 1em 0;
-    font-size: 0.75em;
+    font-size: 0.70em;
 }
 
 nav ul {
@@ -112,10 +106,8 @@ nav a {
 
 nav a:hover{
     border-bottom: none;
-    color: #FFCA52;
+    color: chocolate;
 }
-
-
 
 
 /*------- FOOTER -------*/
