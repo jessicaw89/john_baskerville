@@ -19,7 +19,7 @@
 
     *Created 11 November 2019*
     
-- [Version 4](https://jessicaw89.github.io/john_baskerville/johnbaskerville4.html)   
+- [Version 4](https://jessicaw89.github.io/john_baskerville/johnbaskerville4.html)
 
     *Created 18 November 2019*
     
@@ -42,3 +42,5 @@
     *Created 16 November 2019*
     
     Typeface added and list added
+    
+- [Version 4](https://jessicaw89.github.io/john_baskerville/history4.html)     
