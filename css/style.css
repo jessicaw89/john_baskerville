@@ -9,8 +9,8 @@
 
 /*----------- MAIN STYLING ---------*/
 body {
-    width:70%;
-    max-width: 700px;
+    width:80%;
+    max-width: 650px;
     margin: auto;
     background: #fafafa;
     color: #333;
@@ -19,7 +19,7 @@ body {
 
 /*-------------- TYPOGRAPHY ---------*/
 
-h1, h2, h3, li {
+h1, h2, h3 {
     font-weight: normal;
     color: #8F0040;
     text-align: center;
@@ -56,13 +56,60 @@ blockquote cite {
     font-size: 0.75em;
     color: #333;}
 
+header h3 {font-style: italic}
 
-li {
-    font-weight: normal;
-    color: #333;
-    text-align: left;
-    font-family: 'Libre Baskerville', serif;}
+header p {font-size: 1.35em}
 
+
+/*----- STYLING LINKS -----*/
+
+a{
+    color: #8F0040;
+    text-decoration: none;
+    border-bottom: 1px dotted;
+
+}
+
+a:hover {
+    color: chocolate;
+    border-bottom: 1px dotted;
+}
+
+/*------- NAVIGATION -----*/
+
+nav {
+    position: fixed;
+    top: 0;
+    left:0;
+    margin: 0;
+    width: 100%;
+    background-color: #8F0040;
+    padding: 1em 0;
+    font-size: 0.70em;
+}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+    
+}
+
+nav a {
+    color: white;
+}
+
+nav a:hover{
+    border-bottom: none;
+    color: chocolate;
+}
+
+li {font-family: 'Open Sans', sans-serif;}
 
 
 /*------- FOOTER -------*/
