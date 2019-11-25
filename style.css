@@ -61,6 +61,35 @@ header h3 {font-style: italic}
 header p {font-size: 1.35em}
 
 
+ul {list-style-type: none;
+    margin: 0;
+    padding; 1em 0;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+
+ul li {
+    margin: 9px;
+}
+
+.list-indent {
+    
+    margin-left: 2em
+
+}
+
+.list-head {
+    
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+    
+.red {background: orangered}
+
+
+
 /*----- STYLING LINKS -----*/
 
 a{
@@ -109,7 +138,7 @@ nav a:hover{
     color: chocolate;
 }
 
-li {font-family: 'Open Sans', sans-serif;}
+
 
 
 /*------- FOOTER -------*/

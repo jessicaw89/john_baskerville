@@ -19,6 +19,9 @@ body {
 
 }
 
+
+li content: {text-align: left}
+
 /*-------------- TYPOGRAPHY ---------*/
 
 h1, h2, h3 {
@@ -66,19 +69,26 @@ header h3 {font-style: italic}
     
 header p {font-size: 1.35em}   
     
-li {
-    font-weight: normal;
-    color: #333;
-    text-align: left;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-family: 'Spectral', serif;}
 
-top {
-    font-weight: normal;
-    color: #333;
-    text-align: left;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-family: 'Spectral', serif;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0.90em 0;
+}
+
+ul li {
+    margin: 10px;
+    }
+
+.list-indent {
+    margin-left: 3em;}
+
+.list-head {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;}
+
+    .red {background: white}
 
 
 /*------- NAVIGATION -----*/
