@@ -86,6 +86,7 @@ ul li {
 
 .list-head {
     font-family: 'Open Sans', sans-serif;
+   
     text-transform: uppercase;}
 
     .red {background: white}
@@ -126,6 +127,47 @@ nav a:hover{
 }
 
 
+/*--------TABLE STYLING----------*/
+
+table {margin: auto;
+       display: table;
+       border-collapse: collapse;
+       border-spacing: 2px;
+       margin-bottom: 2em;
+       width: 100%;
+        
+}
+
+caption {margin-bottom: 3em
+         text transform: uppercase;
+         
+}
+
+th {color: #fafafa;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #DB5941;      
+}
+
+th, td {padding: .6em;
+}
+
+table, td {background: #DB8A3F;
+            border: 1px solid #fafafa;
+ 
+}
+
+
+/*------IMAGES----*/
+
+img {
+    display: block;
+    margin: 1.5em auto;
+    padding: 0;
+    max-width: 100%;
+
+}
 
 
 /*------- FOOTER -------*/
