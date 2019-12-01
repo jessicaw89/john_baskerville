@@ -19,9 +19,19 @@
 
     *Created 11 November 2019*
     
+    Typeface added
+    
 - [Version 4](https://jessicaw89.github.io/john_baskerville/johnbaskerville4.html)
 
     *Created 18 November 2019*
+    
+    List added 
+    
+- [Version 5](https://jessicaw89.github.io/john_baskerville/johnbaskerville5.html) 
+
+    *Created 25 November 2019*
+    
+    List converted into table and Images added 
     
 # <h3>History of Type</h3>
 
@@ -53,4 +63,4 @@
 
     *Created 20 November 2019*
     
-    List converted into table
+    List converted into table and Imaged added 
