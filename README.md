@@ -41,6 +41,16 @@
 
     *Created 16 November 2019*
     
-    Typeface added and list added
+    Typeface added 
     
-- [Version 4](https://jessicaw89.github.io/john_baskerville/history4.html)     
+- [Version 4](https://jessicaw89.github.io/john_baskerville/history4.html)   
+
+    *Created 25 November 2019*
+    
+    List Added
+
+- [Version 4](https://jessicaw89.github.io/john_baskerville/history5.html)     
+
+    *Created 20 November 2019*
+    
+    List converted into table
