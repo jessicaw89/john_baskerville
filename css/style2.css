@@ -19,6 +19,9 @@ body {
 
 }
 
+
+li content: {text-align: left}
+
 /*-------------- TYPOGRAPHY ---------*/
 
 h1, h2, h3 {
@@ -66,20 +69,106 @@ header h3 {font-style: italic}
     
 header p {font-size: 1.35em}   
     
-li {
-    font-weight: normal;
-    color: #333;
-    text-align: left;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-family: 'Spectral', serif;}
 
-top {
-    font-weight: normal;
-    color: #333;
-    text-align: left;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-family: 'Spectral', serif;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0.90em 0;
+}
+
+ul li {
+    margin: 10px;
+    }
+
+.list-indent {
+    margin-left: 3em;}
+
+.list-head {
+    font-family: 'Open Sans', sans-serif;
+   
+    text-transform: uppercase;}
+
+    .red {background: white}
+
+
+/*------- NAVIGATION -----*/
+
+nav {
+    position: fixed;
+    top: 0;
+    left:0;
+    margin: 0;
+    width: 100%;
+    background-color: #E98552;
+    padding: 1em 0;
+    font-size: 0.75em;
+}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
     
+}
+
+nav a {
+    color: white;
+}
+
+nav a:hover{
+    border-bottom: none;
+    color: #FFCA52;
+}
+
+
+/*--------TABLE STYLING----------*/
+
+table {margin: auto;
+       display: table;
+       border-collapse: collapse;
+       border-spacing: 2px;
+       margin-bottom: 2em;
+       width: 100%;
+        
+}
+
+caption {margin-bottom: 3em
+         text transform: uppercase;
+         
+}
+
+th {color: #fafafa;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #DB5941;      
+}
+
+th, td {padding: .6em;
+}
+
+table, td {background: #DB8A3F;
+            border: 1px solid #fafafa;
+ 
+}
+
+
+/*------IMAGES----*/
+
+img {
+    display: block;
+    margin: 1.5em auto;
+    padding: 0;
+    max-width: 100%;
+
+}
+
 
 /*------- FOOTER -------*/
 

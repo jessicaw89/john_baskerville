@@ -15,6 +15,25 @@ body {
     background: #fafafa;
     color: #333;
     font-family: 'Libre Baskerville', serif;
+    
+}
+
+
+/*-----FLEXBOX------*/
+
+article {display: flex;
+        padding: 1em
+}
+
+.main {flex: 3;
+       padding-right: 1em}
+
+aside {flex: 1;
+       font-size: 0.75em;
+       font-style: italic;
+       border-left: 1px solid #333;
+       padding-left: 1em;
+
 }
 
 /*-------------- TYPOGRAPHY ---------*/
@@ -61,7 +80,36 @@ header h3 {font-style: italic}
 header p {font-size: 1.35em}
 
 
-/*----- STYLING LINKS -----*/
+ul {list-style-type: none;
+    margin: 0;
+    padding; 1em 0;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+
+ul li {
+    margin: 9px;
+}
+
+.list-indent {
+    
+    margin-left: 2em
+
+}
+
+.list-head {
+    
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+    
+.red {background: orangered}
+
+
+
+/*--------- STYLING LINKS ---------*/
 
 a{
     color: #8F0040;
@@ -75,7 +123,7 @@ a:hover {
     border-bottom: 1px dotted;
 }
 
-/*------- NAVIGATION -----*/
+/*----------- NAVIGATION ----------*/
 
 nav {
     position: fixed;
@@ -109,13 +157,163 @@ nav a:hover{
     color: chocolate;
 }
 
-li {font-family: 'Open Sans', sans-serif;}
 
 
-/*------- FOOTER -------*/
+/*------ TABLE STYLING -------*/
+
+table {margin: auto;
+       display: table;
+       border-collapse: collapse;
+       border-spacing: 2px;
+       margin-bottom: 2em;
+       width: 100%;
+        
+}
+
+caption {margin-bottom: 1.5em
+         text transform: uppercase;             
+}
+
+th {color: #fafafa;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #8F0040;      
+}
+
+th, td {padding: .6em;
+}
+
+table, td, {background: #8F0040;
+               border: 1px solid #fafafa;
+}
+
+
+/*---------- IMAGES ---------*/
+
+img {
+    display: block;
+    margin: 2em auto;
+    padding: 0;
+    max-width: 100%;
+}
+
+
+
+/*------SOCIAL LINKS-------*/
+
+
+.connections {
+   position: relative;
+    margin: 0 auto;
+    
+
+}
+
+.connections ul {
+    margin: 0;
+    padding: 0;
+
+}
+
+.connections li {
+    margin: 0 15px;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+}
+
+.connections a:link {
+    border-bottom: none;
+}
+
+.connections img {
+    opacity: 0.5;
+    border: none;
+}
+
+.connections a:hover img {
+    opacity: 1.0;
+    border-bottom: none;
+    transition: all 0.3s ease-in-out;
+}
+
+
+
+
+/*-------TABLET------*/
+
+@media (max-width: 50em) {
+   
+    body {
+       
+        width: 100%;
+    }
+     
+header p, article {
+    width: 95%;
+    padding: 0.5em;
+    } 
+    
+article {flex-flow: column;
+          flex-direction: column;}
+     
+section {width: 90%}
+    
+.aside {border-left: none;
+        margin: 0;
+        padding-left: 1em;
+        font-size: 1.2em}    
+} 
+
+
+/*------SMARTPHONE------*/
+
+@media (max-width: 30em) {
+    
+    body {
+        
+        margin: auto 0;
+        width: 95%;
+        font-size: 135%} 
+
+
+
+nav ul li {
+    display: block;
+    margin: 20px;
+}
+
+
+table {font-size: 90%}
+
+
+article {width 90%;}
+
+
+h1 {font-size: 2em;
+    line-height: 1.3}
+
+blockquote {font-size: 1.25em;
+            padding: 0;
+            line-height: 1.6em}
+
+hgroup h2 {font-size: .75em;
+            padding-top: 0.5em}
+
+nav ul li {font-size: .75em;
+            margin: 10px}
+
+    img {display: none}
+
+/*----------- FOOTER -----------*/
 
 footer{
     text-align: center;
     font-size: 0.707em;
     padding: 2em 0 4em 0; 
 }
+    
+    
+    
+    
