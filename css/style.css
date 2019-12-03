@@ -229,6 +229,7 @@ img {
 .connections img {
     opacity: 0.5;
     border: none;
+    
 }
 
 .connections a:hover img {
@@ -236,6 +237,7 @@ img {
     border-bottom: none;
     transition: all 0.3s ease-in-out;
 }
+
 
 
 
@@ -265,6 +267,15 @@ section {width: 90%}
 } 
 
 
+footer{
+    text-align: center;
+    font-size: 0.707em;
+    padding: 2em 0 4em 0; 
+    
+}
+
+
+
 /*------SMARTPHONE------*/
 
 @media (max-width: 30em) {
@@ -274,7 +285,6 @@ section {width: 90%}
         margin: auto 0;
         width: 95%;
         font-size: 135%} 
-
 
 
 nav ul li {
@@ -306,11 +316,7 @@ nav ul li {font-size: .75em;
 
 /*----------- FOOTER -----------*/
 
-footer{
-    text-align: center;
-    font-size: 0.707em;
-    padding: 2em 0 4em 0; 
-}
+
     
     
     
