@@ -205,8 +205,7 @@ img {
 
 .connections {
    position: relative;
-    margin: 0 auto;
-    
+    margin: 0 auto;   
 
 }
 
@@ -237,7 +236,6 @@ img {
     border-bottom: none;
     transition: all 0.3s ease-in-out;
 }
-
 
 
 
