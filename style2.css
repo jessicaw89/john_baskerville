@@ -1,0 +1,179 @@
+/*------- CSS ------*/
+
+{
+    padding:0;
+    margin: 0;
+    font-size; 100%;
+    line-height: 1em;
+}
+
+/*----------- MAIN STYLING ---------*/
+body {
+    width:70%;
+    max-width: 670px;
+    margin: auto;
+    background: #fafafa;
+    color: #333;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Spectral', serif;
+
+}
+
+
+li content: {text-align: left}
+
+/*-------------- TYPOGRAPHY ---------*/
+
+h1, h2, h3 {
+    font-weight: normal;
+    color: #DB5941;
+    text-align: center;
+        
+}
+
+p{font-family: 'Opens Sans' sans-serif}    
+
+
+h2 {
+    font-weight: normal;
+    color: #DB8A3F;
+    text-align: center;
+}
+
+p, blockquote {
+    margin-bottom: 1em;
+    line-height: 1.4em;
+}
+
+h1 {font-size: 2.827em;
+    margin-top: 2em;
+    margin-bottom: 0.1em;}
+
+h2 {font-size: 1.999em;
+    margin: 1em 0}
+
+h3 {font-size: 1.414em;
+margin-bottom: 1.5em; }
+
+blockquote {
+    font-size: 1.414em;
+    hanging-punctuation: first;
+    text-indent: -0.44em;
+}
+
+blockquote cite {
+    font-size: 0.75em;
+    color: #333;}
+    
+header h3 {font-style: italic}    
+    
+header p {font-size: 1.35em}   
+    
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0.90em 0;
+}
+
+ul li {
+    margin: 10px;
+    }
+
+.list-indent {
+    margin-left: 3em;}
+
+.list-head {
+    font-family: 'Open Sans', sans-serif;
+   
+    text-transform: uppercase;}
+
+    .red {background: white}
+
+
+/*------- NAVIGATION -----*/
+
+nav {
+    position: fixed;
+    top: 0;
+    left:0;
+    margin: 0;
+    width: 100%;
+    background-color: #E98552;
+    padding: 1em 0;
+    font-size: 0.75em;
+}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+    
+}
+
+nav a {
+    color: white;
+}
+
+nav a:hover{
+    border-bottom: none;
+    color: #FFCA52;
+}
+
+
+/*--------TABLE STYLING----------*/
+
+table {margin: auto;
+       display: table;
+       border-collapse: collapse;
+       border-spacing: 2px;
+       margin-bottom: 2em;
+       width: 100%;
+        
+}
+
+caption {margin-bottom: 3em
+         text transform: uppercase;
+         
+}
+
+th {color: #fafafa;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #DB5941;      
+}
+
+th, td {padding: .6em;
+}
+
+table, td {background: #DB8A3F;
+            border: 1px solid #fafafa;
+ 
+}
+
+
+/*------IMAGES----*/
+
+img {
+    display: block;
+    margin: 1.5em auto;
+    padding: 0;
+    max-width: 100%;
+
+}
+
+
+/*------- FOOTER -------*/
+
+footer{
+    text-align: center;
+    font-size: 0.707em;
+    padding: 2em 0 4em 0; 
+}

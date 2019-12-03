@@ -1,4 +1,4 @@
-# <h2>John Baskerville</h2>
+# John Baskerville
 
 
 
@@ -23,6 +23,15 @@
     
 - [Version 4](https://jessicaw89.github.io/john_baskerville/johnbaskerville4.html)
 
+
+    *Created 18 November 2019*
+    
+    List added 
+    
+- [Version 5](https://jessicaw89.github.io/john_baskerville/johnbaskerville5.html) 
+
+
+
     *Created 18 November 2019*
     
     List added 
@@ -33,13 +42,12 @@
     
     List converted into table and Images added 
     
-    
+
 - [Version 6](https://jessicaw89.github.io/john_baskerville/johnbaskerville6.html)    
     
     *Created 2 December 2019*
     
      
-    
 # <h3>History of Type</h3>
 
 - [Version 1](https://jessicaw89.github.io/john_baskerville/history1.html)
@@ -68,6 +76,7 @@
 
 - [Version 5](https://jessicaw89.github.io/john_baskerville/history5.html)     
 
+
     *Created 30 November 2019*
     
     List converted into table and Imaged added 
@@ -76,5 +85,7 @@
 
     *Created December 2019*
     
+
+    *Created 20 November 2019*
     
-    
+    List converted into table and Imaged added 

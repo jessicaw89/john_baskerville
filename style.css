@@ -1,0 +1,191 @@
+/*------- CSS ------*/
+
+{
+    padding:0;
+    margin: 0;
+    font-size; 100%;
+    line-height: 1em;
+}
+
+/*----------- MAIN STYLING ---------*/
+body {
+    width:80%;
+    max-width: 650px;
+    margin: auto;
+    background: #fafafa;
+    color: #333;
+    font-family: 'Libre Baskerville', serif;
+}
+
+/*-------------- TYPOGRAPHY ---------*/
+
+h1, h2, h3 {
+    font-weight: normal;
+    color: #8F0040;
+    text-align: center;
+}
+
+p{font-family: 'Open Sans', sans-serif;}
+
+p, blockquote {
+    margin-bottom: 1em;
+    line-height: 1.4em;
+}
+
+h1 {font-size: 2.827em;
+    margin-top: 2em;
+    margin-bottom: 0.1em;
+    }
+
+h2 {font-size: 1.999em;
+    margin: 3em 0 1em 0}
+
+h3 {font-size: 1.414em;
+    margin-bottom: 1.5em; 
+    
+}
+
+
+blockquote {
+    font-size: 1.414em;
+    hanging-punctuation: first;
+    text-indent: -0.44em;
+}
+
+blockquote cite {
+    font-size: 0.75em;
+    color: #333;}
+
+header h3 {font-style: italic}
+
+header p {font-size: 1.35em}
+
+
+ul {list-style-type: none;
+    margin: 0;
+    padding; 1em 0;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+
+ul li {
+    margin: 9px;
+}
+
+.list-indent {
+    
+    margin-left: 2em
+
+}
+
+.list-head {
+    
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+    
+.red {background: orangered}
+
+
+
+/*----- STYLING LINKS -----*/
+
+a{
+    color: #8F0040;
+    text-decoration: none;
+    border-bottom: 1px dotted;
+
+}
+
+a:hover {
+    color: chocolate;
+    border-bottom: 1px dotted;
+}
+
+/*------- NAVIGATION -----*/
+
+nav {
+    position: fixed;
+    top: 0;
+    left:0;
+    margin: 0;
+    width: 100%;
+    background-color: #8F0040;
+    padding: 1em 0;
+    font-size: 0.70em;
+}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+    
+}
+
+nav a {
+    color: white;
+}
+
+nav a:hover{
+    border-bottom: none;
+    color: chocolate;
+}
+
+
+
+/*------ TABLE STYLING -------*/
+
+table {margin: auto;
+       display: table;
+       border-collapse: collapse;
+       border-spacing: 2px;
+       margin-bottom: 2em;
+       width: 100%;
+        
+}
+
+caption {margin-bottom: 1.5em
+         text transform: uppercase;             
+}
+
+th {color: #fafafa;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #8F0040;      
+}
+
+th, td {padding: .6em;
+}
+
+table, td, {background: #8F0040;
+               border: 1px solid #fafafa;
+ 
+}
+
+
+/*----- IMAGES -----*/
+
+img {
+    display: block;
+    margin: 2em auto;
+    padding: 0;
+    max-width: 100%;
+}
+
+
+
+/*------- FOOTER -------*/
+
+footer{
+    text-align: center;
+    font-size: 0.707em;
+    padding: 2em 0 4em 0; 
+}
