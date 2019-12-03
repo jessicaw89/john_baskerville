@@ -48,7 +48,7 @@
     *Created 2 December 2019*
     
      
-# <h3>History of Type</h3>
+# History of Type
 
 - [Version 1](https://jessicaw89.github.io/john_baskerville/history1.html)
 
