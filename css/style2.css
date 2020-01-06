@@ -14,8 +14,8 @@ body {
     margin: auto;
     background: #fafafa;
     color: #333;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-family: 'Spectral', serif;
+    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
 
 }
 
@@ -28,10 +28,13 @@ h1, h2, h3 {
     font-weight: normal;
     color: #DB5941;
     text-align: center;
-        
+    
+    
 }
 
-p{font-family: 'Opens Sans' sans-serif}    
+p{font-family: 'Didact Gothic', sans-serif;
+  font-size: 1.1em;    
+}    
 
 
 h2 {
