@@ -241,7 +241,12 @@ img {
 }
 
 
-
+footer{
+    text-align: center;
+    font-size: 0.707em;
+    padding: 2em 0 4em 0; 
+    
+}    
 
 /*-------TABLET------*/
 
@@ -311,18 +316,12 @@ nav ul li {font-size: .75em;
     img {display: none}
     
 
-footer{
-    text-align: center;
-    font-size: 0.707em;
-    padding: 2em 0 4em 0; 
-    
-}    
+
     
 
 /*----------- FOOTER -----------*/
 
 
-    
     
     
     
