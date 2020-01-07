@@ -47,6 +47,8 @@
     
     *Created 2 December 2019*
     
+    Added Flexbox
+    
      
 # History of Type
 
@@ -83,9 +85,6 @@
     
 - [Version 6](https://jessicaw89.github.io/john_baskerville/history6.html)   
 
-    *Created December 2019*
+    *Created 2 December 2019*
     
-
-    *Created 20 November 2019*
-    
-    List converted into table and Imaged added 
+    Added Social Media Links
