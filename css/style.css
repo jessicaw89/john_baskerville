@@ -172,8 +172,9 @@ table {margin: auto;
         
 }
 
-caption {margin-bottom: 1.5em
-         text transform: uppercase;             
+caption {margin-bottom: 3em
+         text transform: uppercase; 
+         margin: 1em;
 }
 
 th {color: #fafafa;
