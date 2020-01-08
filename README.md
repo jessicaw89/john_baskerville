@@ -28,13 +28,6 @@
     
     List added 
     
-- [Version 5](https://jessicaw89.github.io/john_baskerville/johnbaskerville5.html) 
-
-
-
-    *Created 18 November 2019*
-    
-    List added 
     
 - [Version 5](https://jessicaw89.github.io/john_baskerville/johnbaskerville5.html) 
 
